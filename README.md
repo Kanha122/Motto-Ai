@@ -36,7 +36,7 @@ MottoAi is an intelligent, lightning-fast code editor powered by LLMs using Toge
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/mottoai.git
+https://github.com/yourusername/Motto-Ai.git
 
 # 2. Move into the project directory
 cd MottoAiEditor
